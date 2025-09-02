@@ -1,0 +1,2 @@
+ALTER TABLE board
+ADD COLUMN name TEXT;
